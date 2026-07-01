@@ -153,6 +153,10 @@ GRADIO_SERVER_PORT=64885 ./run_python.sh app_gradio.py
 - 查看推理摘要和分步推理
 - 查看引用的原始 PDF 文件名和页码
 
+运行界面示例：
+
+![Gradio 运行界面](docs/images/gradio-home.png)
+
 ## 命令行用法
 
 查看全部命令：
