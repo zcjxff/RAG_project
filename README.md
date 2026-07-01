@@ -157,6 +157,14 @@ GRADIO_SERVER_PORT=64885 ./run_python.sh app_gradio.py
 
 ![Gradio 运行界面](docs/images/gradio-home.png)
 
+问答结果示例：
+
+![问答结果：最终答案与引用页码](docs/images/gradio-result-1.png)
+
+![问答结果：来源表格与推理摘要](docs/images/gradio-result-2.png)
+
+![问答结果：分步推理内容](docs/images/gradio-result-3.png)
+
 ## 命令行用法
 
 查看全部命令：
