@@ -1,6 +1,6 @@
-# rag_stock_qwen
+# RAG知识库问答系统
 
-这是一个面向中芯国际研报的本地 RAG 问答项目。项目使用 MinerU 本地解析 PDF，使用 DashScope `text-embedding-v4` 生成向量，使用 LangChain FAISS 和 BM25 做检索，并通过 Qwen 模型生成结构化答案。前端使用 Gradio 搭建，页面布局参考 `demo_cn/UI界面参考-完成.png`。
+这是一个面向中芯国际研报的本地 RAG 问答项目。项目使用 MinerU 本地解析 PDF，使用 DashScope `text-embedding-v4` 生成向量，使用 LangChain FAISS 和 BM25 做检索，并通过 Qwen 模型生成结构化答案。前端使用 Gradio 搭建。
 
 ## 当前完成情况
 
