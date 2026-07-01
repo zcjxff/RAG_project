@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.venv/
+venv/
+env/
+*.log
+data/stock_data/answers*.json
+data/stock_data/*_debug.json
+data/stock_data/databases/vector_dbs/*.faiss
